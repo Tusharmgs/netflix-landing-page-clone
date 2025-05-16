@@ -16,7 +16,7 @@ body {
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    background-image: url(assets/backgroundnew.jpeg);
+    background-image: url(assets/backgroundnew.jpg);
     height: 100vh;
     display: flex;
     flex-direction: column;
