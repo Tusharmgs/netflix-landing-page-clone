@@ -30,7 +30,7 @@ HTML5
 CSS3
 
 📬 Contact
-If you're also learning frontend or working on something similar, feel free to connect with me on ![LinkedIn](https://www.linkedin.com/in/tushar-keshari-53315933b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  or drop a message!
+If you're also learning frontend or working on something similar, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-keshari-53315933b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  or drop a message!
 
 
 
